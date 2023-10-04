@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HardikMutha
 - 👀 I’m interested in C,C++,Java,Python,Pearl
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C,Java,JavaScript,CSS,HTML
+- 💞️ I’m looking to collaborate on Open Source PRojects
 - 📫 How to reach me: gmail- hardikmutha2005@gmail.com
 
 <!---
