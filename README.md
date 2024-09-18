@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HardikMutha
 - 👀 I’m interested in C,C++,Java,Python,Machine Learning,AI
-- Trying to develop interest in webdev,android
-- 🌱 I’m currently learning C,Java,JavaScript,CSS,HTML
-- 💞️ I’m looking to collaborate on Open Source PRojects
+- 🌱 I’m currently learning ReactJS,TypeScript,SQL and Basic ML
+- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: gmail- hardikmutha2005@gmail.com
 
 <!---
