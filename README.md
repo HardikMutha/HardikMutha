@@ -8,9 +8,11 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Machine Learning** - 👨‍💻 All of my projects are
-available at [https://github.com/HardikMutha](https://github.com/HardikMutha) -
-💬 Ask me about **Development,ML** - 📫 How to reach me
+- 🌱 I’m currently learning **Machine Learning**
+-  👨‍💻 All of my projects are
+available at [https://github.com/HardikMutha](https://github.com/HardikMutha)
+- 💬 Ask me about **Development,ML**
+- 📫 How to reach me
 **hardikmutha2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
