@@ -25,14 +25,6 @@ available at [https://github.com/HardikMutha](https://github.com/HardikMutha)
       height="30"
       width="40"
   /></a>
-  <a href="https://codeforces.com/profile/hardikmutha" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-      alt="hardikmutha"
-      height="30"
-      width="40"
-  /></a>
   <a href="https://www.leetcode.com/bufferoverflow256" target="blank"
     ><img
       align="center"
